@@ -63,7 +63,7 @@ public class MyCircle {
 	     return Math.PI * Math.pow(this.radius, 2);
 	}
 
-	// Method to calculate the perimeter (circumference) of the circle
+	
 	public double getPerimeter() {
 	     return 2 * Math.PI * this.radius;
 	}
